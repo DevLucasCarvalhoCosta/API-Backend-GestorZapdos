@@ -2,7 +2,7 @@
 
 O GestorZapdos é uma aplicação de gerenciamento de pedidos, projetada para facilitar a comunicação entre clientes e prestadores de serviços.
 (Ainda em Desenvolvimento)
-Este Commit e apenas a API do backend.
+Esta e apenas a API do Backend.
 
 ## Funcionalidades
 
@@ -28,12 +28,6 @@ Este Commit e apenas a API do backend.
    git clone https://github.com/Lucaspk91/GestorZapdos.git
    ```
 
-2. Instale as dependências do frontend:
-   ```bash
-   cd GestorZapdos/frontend
-   npm install
-   ```
-
 3. Instale as dependências do backend:
    ```bash
    cd ../backend
@@ -42,16 +36,8 @@ Este Commit e apenas a API do backend.
 
 4. Inicie o servidor backend:
    ```bash
-   npm start
+   node app.js
    ```
-
-5. Inicie o aplicativo frontend:
-   ```bash
-   cd ../frontend
-   npm start
-   ```
-
-6. Abra o aplicativo no Expo Go no seu dispositivo móvel ou emulador.
 
 ## Contribuição
 

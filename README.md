@@ -2,6 +2,7 @@
 
 O GestorZapdos é uma aplicação de gerenciamento de pedidos, projetada para facilitar a comunicação entre clientes e prestadores de serviços.
 (Ainda em Desenvolvimento)
+Este Commit e apenas a API do backend.
 
 ## Funcionalidades
 
